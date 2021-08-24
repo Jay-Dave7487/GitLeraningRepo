@@ -1,2 +1,2 @@
 # GitLeraningRepo
-This Repo is a part of Git Learning tutorial on Apni Kaksha
+This Repo is a part of Git Learning tutorial 
